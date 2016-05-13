@@ -1,0 +1,1 @@
+document.write('<li><a href="http://www.csdn.net/article/2015-12-01/2826366" target=_blank>数据库厂商的高校“讲台”争夺战</a></li><li><a href="http://www.csdn.net/article/2015-11-30/2826357" target=_blank>一场互联网金融云的技术盛筵</a></li>');
